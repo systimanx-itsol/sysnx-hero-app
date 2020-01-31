@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel CI TEST
+                    Laravel CI 
                 </div>
 
                 <div class="links">
